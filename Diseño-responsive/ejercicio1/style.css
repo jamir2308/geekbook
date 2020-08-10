@@ -1,0 +1,22 @@
+html {
+  font-size: 1rem;
+}
+.smiley {
+  width: 6.25rem;
+  height: 6.25rem;
+  line-height: 6.25rem;
+  text-align: center;
+  font-family: "courier new";
+  font-weight: bold;
+  font-size: 3.125rem;
+  color: #424242;
+  background: #ffcc00;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+/* para que mida 50x50 debe medir 3.125rem x 3.125rem
+para que mida 200x200 debe medir 13rem x 13rem */

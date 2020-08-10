@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
+header {
+  width: 100%;
+  background-color: teal;
+  height: 100px;
+}
+
+main {
+  width: 100%;
+  background-color: thistle;
+  flex: 1 1 auto;
+}
+
+footer {
+  width: 100%;
+  background-color: tomato;
+  display: flex;
+  align-self: flex-end;
+  height: 100px;
+  align-items: center;
+}

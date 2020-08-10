@@ -1,0 +1,45 @@
+.container-ppal {
+  display: flex;
+  flex-direction: row;
+  max-width: 840px;
+  height: 150px;
+}
+img {
+  width: 50px;
+}
+.container-img {
+  background-color: seagreen;
+  width: 150px;
+}
+.container-img img {
+  width: 150px;
+}
+
+.container-centro {
+  width: 50%;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.container-centro button {
+  width: 150px;
+  height: 40px;
+}
+.container-val {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-right: 10px;
+}
+.container-val .comentarios p {
+  line-height: 20px;
+  padding-top: 4px;
+}
+
+.container-val .puntuacion {
+  padding: 20px;
+  font-size: 18px;
+  background-color: rgb(224, 215, 248);
+  border-radius: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

@@ -1,0 +1,22 @@
+#header {
+  background-color: wheat;
+  height: 100px;
+  display: flex;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+  align-items: center;
+}
+
+#header ul {
+  list-style: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 0px;
+  margin-right: 20px;
+}
+
+#header ul li {
+  display: inline-block;
+  list-style: none;
+}

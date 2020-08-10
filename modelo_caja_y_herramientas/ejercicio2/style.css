@@ -1,0 +1,20 @@
+#cajon1 {
+  width: 100px;
+  height: 100px;
+  background-color: mediumseagreen;
+  display: block;
+}
+
+#cajon2 {
+  width: 100px;
+  height: 100px;
+  background-color: mediumvioletred;
+  display: inline;
+}
+
+#cajon3 {
+  width: 100px;
+  height: 100px;
+  background-color: olivedrab;
+  display: inline-block;
+}

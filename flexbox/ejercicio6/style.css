@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  max-width: 960px;
+  text-align: center;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+header {
+  background-color: tomato;
+  width: 100%;
+}
+#aside1 {
+  background-color: yellow;
+  width: 25%;
+}
+article {
+  background-color: teal;
+  width: 50%;
+}
+#aside2 {
+  background-color: pink;
+  width: 25%;
+}
+footer {
+  background-color: seagreen;
+  width: 100%;
+}

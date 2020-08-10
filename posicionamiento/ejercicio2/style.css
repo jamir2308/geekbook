@@ -1,0 +1,24 @@
+.hijo {
+  width: 300px;
+  height: 300px;
+  margin: 40px;
+  padding: 30px;
+}
+#hijo1 {
+  background-color: brown;
+  position: relative;
+  left: 100px;
+  top: 50px;
+}
+#hijo2 {
+  background-color: cornflowerblue;
+  position: relative;
+  right: 150px;
+  bottom: 320px;
+}
+#hijo3 {
+  background-color: darkcyan;
+  position: relative;
+  left: 180px;
+  bottom: 240px;
+}

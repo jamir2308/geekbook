@@ -1,0 +1,13 @@
+body {
+  background-color: skyblue;
+  width: 100vw;
+}
+img {
+  width: 200px;
+  height: 100px;
+}
+#container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

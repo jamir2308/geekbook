@@ -1,0 +1,13 @@
+p {
+  position: relative;
+  top: 70px;
+  left: 30px;
+  font-size: 30px;
+  color: darkgrey;
+}
+
+img {
+  width: 30px;
+  position: relative;
+  left: 90%;
+}

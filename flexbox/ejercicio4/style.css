@@ -1,0 +1,16 @@
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap-reverse;
+}
+img {
+  width: 200px;
+  height: 100px;
+}
+.container-hijo {
+  width: 50%;
+}
+.hijo5 {
+  order: 2;
+  flex-grow: 2;
+}
